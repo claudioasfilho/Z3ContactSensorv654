@@ -1,0 +1,1 @@
+"$4/jre/Contents/Home/bin/java" -jar "$4/../../../../../Library/Application Support/SimplicityStudio/v4/python/jython.jar"  "$(dirname "$0")/Z3ContactSensorv654-postbuild.py" "$1" "$2" "" "$4/support/common/wine/opt/local/bin/wine cmd /C " "$3"
